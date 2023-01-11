@@ -4,6 +4,7 @@
 <p align="center">
   <img src="/image/1.png" />
 </p>
+<p>M+, M- link L298N connect a motor normal / P+ connect +12v, P- connect -12V</p>
 
 ### Code Arduino + H-Bridge (L298N) and PQ12-P
 ```c++
