@@ -1,5 +1,5 @@
 # Controlling-PQ12-P-Linear-Actuators-with-Arduino
-### Circuit
+### **Circuit**
 
 <p align="center">
   <img src="/image/1.png" />
